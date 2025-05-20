@@ -4,9 +4,9 @@ module TestBeanch(
 reg [3:0] A ; 
 reg [3:0] S;
 reg [3:0] B;
-reg C;
-reg C4;
-reg v;
+wire C;
+wire C4;
+wire v;
 
 Behave(
             .A(A),
